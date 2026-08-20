@@ -12,12 +12,131 @@ Python Developer | Data Science & Machine Learning Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working on **Python and Machine Learning Projects**
-- 🌱 Currently learning **Python, NumPy, Pandas, Matplotlib, Scikit-learn & Machine Learning**
-- 🤖 Interested in **Data Science, Artificial Intelligence and Machine Learning**
-- 👯 Looking to collaborate on **Python, Data Science and AI Projects**
-- 💡 Building projects to improve my practical programming skills
+- 🎓 B.Tech Computer Science Graduate
+- 🐍 Passionate about **Python Development, Data Science and Machine Learning**
+- 🔭 Currently working on **Python, Data Science and Machine Learning Projects**
+- 🌱 Continuously improving my skills by building real-world projects
+- 👯 Looking to collaborate on **Python, Data Science, Machine Learning and AI Projects**
+- 📊 Interested in turning data into meaningful insights
 - 📫 Reach me at **touzishaikh@gmail.com**
+
+---
+
+## 🚀 Skills & Technologies
+
+### 🐍 Programming
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</p>
+
+### 📊 Data Science & Data Analysis
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
+<img src="https://matplotlib.org/_static/images/logo2.svg" width="80" height="50"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
+</p>
+
+**Topics Covered:**
+
+- NumPy
+- Pandas
+- Series and DataFrames
+- Data Cleaning
+- Handling Missing Values
+- Data Analysis
+- Data Visualization
+- Matplotlib
+- Seaborn
+- Feature Scaling
+- Label Encoding
+- One-Hot Encoding
+- Outlier Detection
+
+---
+
+## 🤖 Machine Learning
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
+</p>
+
+**Topics Covered:**
+
+### Supervised Learning
+
+- Linear Regression
+- Logistic Regression
+- K-Nearest Neighbors (KNN)
+- Support Vector Machine (SVM)
+- Decision Tree
+- Classification
+- Regression
+
+### Unsupervised Learning
+
+- K-Means Clustering
+- Clustering
+
+### Machine Learning Concepts
+
+- Train-Test Split
+- Feature Scaling
+- Model Training
+- Model Prediction
+- Model Evaluation
+- Confusion Matrix
+- Pickle Model Saving
+- Model Deployment
+
+---
+
+## 🖥️ Python Development
+
+<p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+
+</p>
+
+**Topics Covered:**
+
+- Object-Oriented Programming (OOP)
+- Classes and Objects
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Functions
+- Lambda Functions
+- `*args` and `**kwargs`
+- Modules
+- Exception Handling
+- File Handling
+- List, Tuple, Set and Dictionary
+- List Comprehension
+- Shallow Copy and Deep Copy
+- Sorting using `sort()` and `sorted()`
+
+---
+
+## 🖼️ GUI & Deployment
+
+<p>
+
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/>
+
+</p>
+
+**Technologies:**
+
+- Tkinter
+- Streamlit
+- Pickle
+- Model Deployment
 
 ---
 
@@ -25,113 +144,42 @@ Python Developer | Data Science & Machine Learning Enthusiast
 
 ### 🛒 D-Mart Billing System
 
-A Python-based billing application for managing:
+A Python GUI application developed using **Tkinter**.
 
-- Customer details
-- Product information
-- Quantity and price calculation
-- Total bill generation
+**Features:**
 
-### ❤️ Heart Disease Prediction
-
-A Machine Learning project that predicts the possibility of heart disease based on health-related data.
-
-**Technologies:** Python, Pandas, NumPy, Scikit-learn, Streamlit
-
-### 📊 K-Means Clustering
-
-A Machine Learning project that uses the K-Means algorithm to group data based on similar patterns.
-
-**Technologies:** Python, Pandas, Scikit-learn, Streamlit
+- Customer Details Management
+- Product Details
+- Quantity and Price Calculation
+- Automatic Total Calculation
+- Bill Generation
 
 ---
 
-## 🛠️ Languages and Tools
+### ❤️ Heart Disease Prediction System
 
-<p align="left">
+A Machine Learning web application that predicts the possibility of heart disease based on health information.
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-</a>
+**Technologies:**
 
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/>
-</a>
-
-<a href="https://matplotlib.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="50" height="50"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="50" height="50"/>
-</a>
-
-<a href="https://streamlit.io/" target="_blank">
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="50" height="50"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-</a>
-
-</p>
+`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Streamlit`
 
 ---
 
-## 🌐 Connect With Me
+### 📊 K-Means Clustering App
 
-<p align="left">
+A Machine Learning application that groups data into clusters based on similar characteristics.
 
-<a href="https://www.instagram.com/ravas8055/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"/>
-</a>
+**Technologies:**
 
-<a href="mailto:touzishaikh@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" width="40"/>
-</a>
-
-</p>
+`Python` • `Pandas` • `Scikit-learn` • `K-Means` • `Streamlit`
 
 ---
 
-## 📊 GitHub Statistics
+## 📚 Currently Learning
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=touzicontractor786&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=touzicontractor786&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=touzicontractor786&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=touzicontractor786&theme=tokyonight&no-frame=true&row=1" />
-</p>
-
----
-
-<h3 align="center">
-💡 "The best way to learn programming is by building projects and solving real-world problems."
-</h3>
-
-<p align="center">
-⭐ Feel free to explore my repositories and connect with me!
-</p>
+- 🤖 Advanced Machine Learning
+- 🧠 Artificial Intelligence
+- 📊 Advanced Data Analysis
+- 🚀 Machine Learning Model Deployment
+- 🌐 Building Data Science Web Applications
