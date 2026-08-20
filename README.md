@@ -1,57 +1,164 @@
 <h1 align="center">Hi 👋, I'm Touzi Contractor</h1>
 
-<h3 align="center">
-Python Developer | Data Science & Machine Learning Enthusiast
-</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Python+Developer;Data+Science+Enthusiast;Machine+Learning+Learner;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=touzicontractor786&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/touzicontractor786">
+    <img src="https://komarev.com/ghpvc/?username=touzicontractor786&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/touzicontractor786">GitHub</a> •
+  <a href="https://www.instagram.com/ravas8055/">Instagram</a> •
+  <a href="mailto:touzishaikh@gmail.com">Email</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Graduate
-- 🐍 Passionate about **Python Development, Data Science and Machine Learning**
-- 🔭 Currently working on **Python, Data Science and Machine Learning Projects**
-- 🌱 Continuously improving my skills by building real-world projects
-- 👯 Looking to collaborate on **Python, Data Science, Machine Learning and AI Projects**
-- 📊 Interested in turning data into meaningful insights
-- 📫 Reach me at **touzishaikh@gmail.com**
+🎓 B.Tech Computer Science Graduate
+
+🐍 Passionate about **Python, Data Science and Machine Learning**
+
+📊 Interested in transforming raw data into meaningful insights.
+
+🤖 Currently exploring **Agentic AI**
+
+🚀 I enjoy building projects to improve my programming and problem-solving skills.
+
+📫 Reach me at: **touzishaikh@gmail.com**
 
 ---
 
-## 🚀 Skills & Technologies
+# 🚀 My Learning Journey
 
-### 🐍 Programming
+| Technology / Skill | Status | Completion |
+|---|---|---|
+| 🐍 Python | 🟢 Completed | ██████████ **100%** |
+| 🧩 OOPs | 🟢 Completed | ██████████ **100%** |
+| 🔢 NumPy | 🟢 Completed | ██████████ **100%** |
+| 🐼 Pandas | 🟢 Completed | ██████████ **100%** |
+| 📈 Matplotlib | 🟢 Completed | ██████████ **100%** |
+| 📊 Seaborn | 🟢 Completed | ██████████ **100%** |
+| 📉 Data Science | 🟢 Completed | ██████████ **100%** |
+| 🤖 Machine Learning | 🟢 Completed | ██████████ **100%** |
+| 🧠 Agentic AI | 🟡 Currently Learning | █████░░░░░ **50%** |
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+> 🟢 Completed &nbsp;&nbsp; 🟡 Currently Learning
+
+---
+
+# 🛠️ Skills & Technologies
+
+<p align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="55" height="55"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="55" height="55"/>
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="55" height="55"/>
+</a>
+
+<a href="https://seaborn.pydata.org/" target="_blank">
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="55" height="55"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="55" height="55"/>
+</a>
+
+<a href="https://streamlit.io/" target="_blank">
+<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" width="55" height="55"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
+</a>
+
 </p>
 
-### 📊 Data Science & Data Analysis
+---
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/>
-<img src="https://matplotlib.org/_static/images/logo2.svg" width="80" height="50"/>
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="50" height="50"/>
-</p>
+# 🐍 Python Programming
 
-**Topics Covered:**
+### Topics Covered
 
-- NumPy
-- Pandas
-- Series and DataFrames
+`Variables` • `Data Types` • `Operators` • `Conditional Statements`
+
+`Loops` • `Functions` • `Lambda Functions` • `Modules`
+
+`List` • `Tuple` • `Set` • `Dictionary`
+
+`List Comprehension` • `File Handling` • `Exception Handling`
+
+`Shallow Copy` • `Deep Copy` • `*args` • `**kwargs`
+
+`sort()` • `sorted()`
+
+---
+
+# 🧩 Object-Oriented Programming
+
+### Topics Covered
+
+- Classes and Objects
+- Constructors
+- `__init__()` Method
+- Inheritance
+- Encapsulation
+- Polymorphism
+- Method Overriding
+
+---
+
+# 📊 Data Science & Data Analysis
+
+### NumPy
+
+- Arrays
+- Array Operations
+- Indexing and Slicing
+- Mathematical Operations
+
+### Pandas
+
+- Series
+- DataFrames
+- `loc` and `iloc`
 - Data Cleaning
-- Handling Missing Values
+- Missing Values
+- Duplicate Values
+- Merge and Join
+- GroupBy
 - Data Analysis
-- Data Visualization
-- Matplotlib
-- Seaborn
+
+### Data Visualization
+
+- Line Plot
+- Bar Plot
+- Scatter Plot
+- Histogram
+- Pie Chart
+- Box Plot
+- Heatmap
+
+### Other Topics
+
 - Feature Scaling
 - Label Encoding
 - One-Hot Encoding
@@ -59,30 +166,24 @@ Python Developer | Data Science & Machine Learning Enthusiast
 
 ---
 
-## 🤖 Machine Learning
+# 🤖 Machine Learning
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/>
-</p>
+## Supervised Learning
 
-**Topics Covered:**
+- 📈 Linear Regression
+- 📉 Logistic Regression
+- 👥 K-Nearest Neighbors (KNN)
+- ⚡ Support Vector Machine (SVM)
+- 🌳 Decision Tree
+- 🎯 Classification
+- 📊 Regression
 
-### Supervised Learning
+## Unsupervised Learning
 
-- Linear Regression
-- Logistic Regression
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
-- Decision Tree
-- Classification
-- Regression
+- 🔵 K-Means Clustering
+- 📌 Clustering
 
-### Unsupervised Learning
-
-- K-Means Clustering
-- Clustering
-
-### Machine Learning Concepts
+## Machine Learning Concepts
 
 - Train-Test Split
 - Feature Scaling
@@ -95,91 +196,29 @@ Python Developer | Data Science & Machine Learning Enthusiast
 
 ---
 
-## 🖥️ Python Development
+# 🖥️ GUI & Deployment
 
-<p>
+### Technologies Used
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
-
-</p>
-
-**Topics Covered:**
-
-- Object-Oriented Programming (OOP)
-- Classes and Objects
-- Inheritance
-- Encapsulation
-- Polymorphism
-- Functions
-- Lambda Functions
-- `*args` and `**kwargs`
-- Modules
-- Exception Handling
-- File Handling
-- List, Tuple, Set and Dictionary
-- List Comprehension
-- Shallow Copy and Deep Copy
-- Sorting using `sort()` and `sorted()`
+- 🪟 Tkinter
+- 🌐 Streamlit
+- 📦 Pickle
 
 ---
 
-## 🖼️ GUI & Deployment
+# 🧠 Currently Learning
 
-<p>
+## Agentic AI 🤖
 
-<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" height="50"/>
+I am currently exploring:
 
-</p>
-
-**Technologies:**
-
-- Tkinter
-- Streamlit
-- Pickle
-- Model Deployment
-
----
-
-## 🚀 Featured Projects
-
-### 🛒 D-Mart Billing System
-
-A Python GUI application developed using **Tkinter**.
-
-**Features:**
-
-- Customer Details Management
-- Product Details
-- Quantity and Price Calculation
-- Automatic Total Calculation
-- Bill Generation
-
----
-
-### ❤️ Heart Disease Prediction System
-
-A Machine Learning web application that predicts the possibility of heart disease based on health information.
-
-**Technologies:**
-
-`Python` • `Pandas` • `NumPy` • `Scikit-learn` • `Streamlit`
-
----
-
-### 📊 K-Means Clustering App
-
-A Machine Learning application that groups data into clusters based on similar characteristics.
-
-**Technologies:**
-
-`Python` • `Pandas` • `Scikit-learn` • `K-Means` • `Streamlit`
-
----
-
-## 📚 Currently Learning
-
-- 🤖 Advanced Machine Learning
-- 🧠 Artificial Intelligence
-- 📊 Advanced Data Analysis
-- 🚀 Machine Learning Model Deployment
-- 🌐 Building Data Science Web Applications
+```text
+AI Agents
+    ↓
+Agent Workflows
+    ↓
+Tool Calling
+    ↓
+LLM Applications
+    ↓
+Agentic AI
